@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+ 
+  "name": "LeetCode Whiteboard",
+  "version": "0.1.0",
+  "description": "Remove LeetCode syntax highlighting.",
+ 
+  "content_scripts": [{
+    "css": ["styles.css"],
+    "matches": ["https://leetcode.com/problems/*"]
+  }]
+ 
+}
