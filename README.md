@@ -1,5 +1,5 @@
 # leetcode-whiteboard
-Remove syntax color highlighting on LeetCode for whiteboard interview practice.
+Simple Chrome extension that removes syntax color highlighting on LeetCode for whiteboard interview practice.
 
 To add to Google Chrome:
 1. Clone repository to local
